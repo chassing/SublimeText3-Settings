@@ -1,0 +1,62 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/CaNet.tmTheme",
+	"default_line_ending": "unix",
+	"dictionary": "Packages/Language - German/German_de_DE.dic",
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.graffle",
+		"Icon"
+	],
+	"find_selected_text": true,
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"__pycache__"
+	],
+	"font_size": 15.0,
+	"highlight_line": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"phoenix_color_blue": true,
+	"phoenix_eighties": true,
+	"phoenix_highlight_current_tab": true,
+	"rulers":
+	[
+		100
+	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"tab_size": 4,
+	"theme": "Phoenix Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}
