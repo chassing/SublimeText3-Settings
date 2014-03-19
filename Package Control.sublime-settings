@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Emacs-like Modelines",
 		"EncodingHelper",
 		"Jinja2",
 		"LESS",

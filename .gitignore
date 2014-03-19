@@ -38,3 +38,5 @@ nosetests.xml
 /Package Control.cache
 /Side Bar.sublime-settings
 /Package Control.last-run
+
+/Package Control.system-ca-bundle
