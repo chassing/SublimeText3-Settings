@@ -43,6 +43,7 @@
 	"highlight_line": false,
 	"ignored_packages":
 	[
+		"RestructuredText",
 		"Vintage"
 	],
 	"phoenix_color_blue": true,
