@@ -15,9 +15,9 @@
     { "keys": ["super+ö"], "command": "unindent" },
     // comment
     { "keys": ["super+alt+7"], "command": "toggle_comment", "args": { "block": false } },
-    // my commands
-    { "keys": ["super+alt+b"], "command": "rst_bold"},
-    { "keys": ["ctrl+super+v"], "command": "jinja_var"},
+    // tabs
+    { "keys": ["ctrl+p"], "command": "prev_view" },
+    { "keys": ["ctrl+n"], "command": "next_view" },
 
     // http://tomschlick.com/2012/10/31/customizing-sublime-text-2s-multi-pane-workflow/
     {

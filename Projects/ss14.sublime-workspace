@@ -1,0 +1,486 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ur",
+				"urlopen"
+			],
+			[
+				"mo",
+				"mock_post"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"qtr",
+				"qtrees"
+			],
+			[
+				"cl",
+				"clustermode"
+			],
+			[
+				"list",
+				"list_vols"
+			],
+			[
+				"sve",
+				"sevenmode"
+			],
+			[
+				"fu",
+				"fixture_switch"
+			],
+			[
+				"li",
+				"list_volumes"
+			],
+			[
+				"seve",
+				"sevenmode_list_volumes"
+			],
+			[
+				"S",
+				"SevenMode"
+			],
+			[
+				"get",
+				"get_netapp"
+			],
+			[
+				"exc",
+				"except"
+			],
+			[
+				"sn",
+				"snapshot_name"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"Ma",
+				"MagicMock"
+			],
+			[
+				"M",
+				"MagicMock"
+			],
+			[
+				"kateg",
+				"Kategorien"
+			],
+			[
+				"part",
+				"partikel"
+			],
+			[
+				"assi",
+				"assignment_1"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"sp",
+				"spyweb"
+			],
+			[
+				"pica",
+				"picamera"
+			],
+			[
+				"ca",
+				"capture"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"ma",
+				"makedirs_p"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"selected_items":
+		[
+			[
+				"proj",
+				"Project Manager"
+			],
+			[
+				"pro",
+				"Project Manager: Add Project"
+			],
+			[
+				"inst ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 138.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/chassing/Documents/study/SS14"
+	],
+	"file_history":
+	[
+		"/Users/chassing/Library/Application Support/Sublime Text 3/Packages/User/Projects/ss14.sublime-project",
+		"/Users/chassing/workspace/linux-sysadmin-interview-questions/README.md",
+		"/Users/chassing/Downloads/ucwa-lync.txt",
+		"/Users/chassing/workspace/pydash/reminder.txt",
+		"/Users/chassing/workspace/pydash/kivy/examples/widgets/lists/list_master_detail.py",
+		"/Users/chassing/workspace/shutdown/requirements.txt",
+		"/Users/chassing/workspace/shutdown/config/local.sh",
+		"/Users/chassing/workspace/shutdown/starfleet/redshirt/redshirt/core.py",
+		"/Users/chassing/workspace/shutdown/starfleet/enterprise/enterprise/core.py",
+		"/Users/chassing/workspace/shutdown/starfleet/enterprise/enterprise/configs.py",
+		"/Users/chassing/workspace/shutdown/starfleet/redshirt/tests/test_redshirt_core.py",
+		"/Users/chassing/workspace/shutdown/requirements-dev.txt",
+		"/Users/chassing/workspace/juppi/jabbalaci.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/nidhogg/core.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_core_ontapi.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_core_set_quota.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/__init__.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_nidhogg.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_http.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/nidhogg/sevenmode.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/conftest.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/setup.py",
+		"/Users/chassing/workspace/nidhogg/fabfile.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_core.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_core_clustered.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_core_getattr.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_core_create_request.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_core_do.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_compatible.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_list_qtrees.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_delete_snapshot.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_create_snapshot.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_clustermode.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_sevenmode.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_list_snapshots.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_list_snapable_volumes.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_list_volumes.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/tests/test_volume_info.py",
+		"/Users/chassing/workspace/nidhogg/nidhogg/nidhogg/clustermode.py",
+		"/Users/chassing/workspace/nidhogg/.pytest.ini",
+		"/Users/chassing/workspace/myfarm/roles/timemachine/templates/AppleVolumes.default",
+		"/Users/chassing/workspace/myfarm/roles/timemachine/templates/afpd.conf",
+		"/Users/chassing/workspace/myfarm/roles/timemachine/handlers/main.yml",
+		"/Users/chassing/workspace/myfarm/hosts",
+		"/Users/chassing/workspace/myfarm/roles/backup/tasks/main.yml",
+		"/Users/chassing/workspace/myfarm/roles/common/tasks/main.yml",
+		"/Users/chassing/workspace/myfarm/roles/common/templates/sshd_config",
+		"/Users/chassing/workspace/myfarm/site.yml",
+		"/Users/chassing/workspace/myfarm/roles/backup/templates/rsnapshot.conf",
+		"/Users/chassing/workspace/myfarm/roles/backup/defaults/main.yml",
+		"/Users/chassing/workspace/myfarm/roles/backup/handlers/main.yml",
+		"/Users/chassing/Downloads/EP14.txt",
+		"/Users/chassing/Downloads/blubb.py",
+		"/Users/chassing/workspace/shutdown/starfleet/enterprise/tests/test_plugin_core.py",
+		"/Users/chassing/workspace/shutdown/starfleet/enterprise/tests/test_plugin_command.py",
+		"/Users/chassing/workspace/shutdown/starfleet/enterprise/tests/test_plugin_shell.py",
+		"/Users/chassing/workspace/shutdown/scripts/clearcase/tests",
+		"/Users/chassing/workspace/shutdown/scripts/ansys/test",
+		"/Users/chassing/workspace/shutdown/config/tuvok.sh",
+		"/Users/chassing/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/chassing/Library/Application Support/Sublime Text 3/Packages/User/Flake8Lint.sublime-settings",
+		"/Users/chassing/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/chassing/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/chassing/Library/Application Support/Sublime Text 3/Packages/Python Flake8 Lint/Flake8Lint.sublime-settings",
+		"/Users/chassing/workspace/shutdown/ngircd.conf",
+		"/tmp/subl stdin DT6g2P.txt",
+		"/Users/chassing/workspace/shutdown/config/common.sh",
+		"/tmp/subl stdin 5LfVJT.txt",
+		"/Users/chassing/Documents/study/SS14/semantic web/20140312.rst",
+		"/Users/chassing/Downloads/foobar.html",
+		"/Users/chassing/Downloads/readme.txt",
+		"/Users/chassing/workspace/juppi/microminimus.py",
+		"/Users/chassing/Documents/study/SS14/logik/rodler-mail.txt",
+		"/Users/chassing/Documents/study/SS14/logik/aufgabe2_loesung.rst",
+		"/Users/chassing/Documents/study/SS14/morphologie/20140310.rst",
+		"/Users/chassing/Documents/study/SS14/organisationssoziologie/mitschrift.txt",
+		"/Users/chassing/Documents/study/SS14/dbt/assignment_1_loesung.txt",
+		"/Users/chassing/Documents/study/SS14/dbt/loesung/assignment_1.rst",
+		"/Users/chassing/Documents/study/SS14/dbt/loesung/index.rst",
+		"/Users/chassing/Documents/study/SS14/dbt/loesung/conf.py",
+		"/Users/chassing/Documents/study/SS14/dbt/loesung/Makefile",
+		"/Users/chassing/workspace/raspi/spyweb/spyweb/views.py",
+		"/Users/chassing/workspace/raspi/spyweb/spycam/__init__.py",
+		"/Users/chassing/workspace/raspi/spyweb/spycam/server.py",
+		"/Users/chassing/workspace/raspi/spyweb/spycam/client.py",
+		"/Users/chassing/workspace/raspi/cam/client.py",
+		"/Users/chassing/workspace/raspi/spyweb/templates/index.html",
+		"/Users/chassing/workspace/raspi/cam/server.py",
+		"/Users/chassing/workspace/raspi/spyweb/spyweb/__init__.py",
+		"/Users/chassing/workspace/raspi/spyweb/runserver.py",
+		"/Users/chassing/workspace/raspi/spyweb/spyweb.py",
+		"/Users/chassing/workspace/raspi/spyweb/static/style.css",
+		"/Users/chassing/workspace/raspi/spyweb/templates/layout.html",
+		"/Users/chassing/workspace/juppi/server.py",
+		"/Users/chassing/workspace/juppi/image_info.py",
+		"/Users/chassing/workspace/juppi/widescreenimages.py",
+		"/Users/chassing/workspace/juppi/gits.txt",
+		"/Users/chassing/workspace/juppi/.config",
+		"/Users/chassing/Library/Application Support/Sublime Text 3/Packages/User/LESS.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"showing the space being",
+			"export",
+			"import",
+			"urllib2",
+			"nidhogg_true",
+			"nidhogg_false",
+			"self.n",
+			"sevenmode",
+			"self.assertEqual(self.nidhogg.create_request(",
+			"nidhogg",
+			"self.assertEqual(self.",
+			"STD_NETAPP_RESULT",
+			"self",
+			"snapshots",
+			"list_snapshots(\"vol\")",
+			"create",
+			"list_snapshots(\"vol\")",
+			"volume_info",
+			"volume_info(\"name1\")",
+			"nidhogg_volume_info",
+			"volume_info",
+			"volume_info(\"name1\")",
+			"list_volumes",
+			"nidhogg_list_volumes",
+			"sevenmode_list_volumes",
+			"nidhogg_list_volumes",
+			"SevenMode",
+			"S",
+			"request.param",
+			"sevenmode_list_volumes",
+			"self.nidhogg",
+			"qss_volumes",
+			"list_volumes",
+			"netapp",
+			"_get_filer",
+			"NetApp",
+			"start",
+			"name",
+			"next",
+			"line",
+			"flexio",
+			"verb",
+			"adjek",
+			"kompara",
+			"adje",
+			"Nomen",
+			"drun",
+			"prü",
+			"syslog.syslog(syslog.LOG_ALERT, ",
+			"_coursor",
+			"total",
+			"_coursor",
+			"self.conn",
+			"self.save",
+			"read",
+			"self.total",
+			"self.conn",
+			"self.posts",
+			"self.name",
+			"_is_exists_byId",
+			"_is_exists_byHash",
+			"_is_exists_byId",
+			"self._coursor",
+			"self.pp",
+			"TumblrPhotoDownError",
+			"  "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ss14.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"redcore",
+				"starfleet/redshirt/redshirt/core.py"
+			],
+			[
+				"ssh",
+				"roles/common/templates/sshd_config"
+			],
+			[
+				"testplco",
+				"starfleet/enterprise/tests/test_plugin_core.py"
+			],
+			[
+				"testcore",
+				"starfleet/jeanluc/tests/test_core.py"
+			],
+			[
+				"testshe",
+				"starfleet/enterprise/tests/test_plugin_shell.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
