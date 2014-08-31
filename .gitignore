@@ -1,9 +1,5 @@
 *.py[cod]
-
-# C extensions
 *.so
-
-# Packages
 *.egg
 *.egg-info
 dist
@@ -18,25 +14,16 @@ develop-eggs
 lib
 lib64
 __pycache__
-
-# Installer logs
 pip-log.txt
-
-# Unit test / coverage reports
 .coverage
 .tox
 nosetests.xml
-
-# Translations
 *.mo
-
-# Mr Developer
 .mr.developer.cfg
 .project
 .pydevproject
-
 /Package Control.cache
 /Side Bar.sublime-settings
 /Package Control.last-run
-
 /Package Control.system-ca-bundle
+Projects/*.sublime-workspace
